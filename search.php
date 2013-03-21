@@ -14,7 +14,7 @@
 	<?php 
 	$i=1;
 	if($rss->found==true){
-		//var_dump($rss->rss_arr);
+		
 		foreach($rss->rss_arr as $rss_val){
 		?>
 		<tr>
